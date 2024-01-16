@@ -1,0 +1,21 @@
+main {
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.landscape {
+  width: 7in;
+  height: 4.5in;
+}
+
+.portrait {
+  width: 4.5in;
+  height: 7in;
+ @import url(https://fonts.googleapis.com/css?family=Denk+One);
+
+
+}
+
+
+                
